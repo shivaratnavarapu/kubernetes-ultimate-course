@@ -1,9 +1,14 @@
-# kubernetes-in-production
+<h1 align="center">
+  Kubernetes Ultimate Course
+</h1>
 
+Day01:
+- Kubernetes Concepts
+- Monolithic Vs Microservice Architecture
+- Kubernetes Architecture
+- Hands-on Lab
 
-To follow this guide, you need:
-
-One or more machines running a deb/rpm-compatible Linux OS; for example: Ubuntu or CentOS.
-2 GiB or more of RAM per machine--any less leaves little room for your apps.
-At least 2 CPUs on the machine that you use as a control-plane node.
-Full network connectivity among all machines in the cluster. You can use either a public or a private network.
+Day02:
+- Cluster Pre-requisites
+- Create self managed Kubernetes Cluster
+- Hands-on Lab
