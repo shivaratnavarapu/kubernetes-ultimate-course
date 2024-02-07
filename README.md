@@ -9,6 +9,6 @@ Day01:
 - Hands-on Lab
 
 Day02:
-- Cluster Pre-requisites
+- Pre-requisites for cluster creation
 - Create self managed Kubernetes Cluster
 - Hands-on Lab
